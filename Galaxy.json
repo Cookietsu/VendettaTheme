@@ -2,10 +2,14 @@
   "name": "Galaxy",
   "description": "My first attempt at figuring out theme creation. Credits: Felix Svetloozerskiy",
   "authors": [
-    {
-      "name": "Cookiestsu","Felix Svetloozerskiy", 
-      "id": "628165423191293962", "354936587186077707" 
-    }
+        {
+            "name": "Cookietsu",
+            "id": "628165423191293962"
+            },
+            {
+            "name": "Felix Svetloozerskiy",
+            "id": "354936587186077707"
+        }
   ],
   "spec": 2,
   "semanticColors": {
