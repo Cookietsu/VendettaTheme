@@ -1,10 +1,11 @@
 { 
     "name": "Orion",
-    "description": "My first attempt at making a propper theme for Vendetta (made by Felix)",
+    "description": "My first attempt at figuring out theme creation. 
+Credits: Felix Svetloozerskiy ",
    "authors": [
      {
-       "name": "Felix Svetloozerskiy",
-       "id": "354936587186077707"
+       "name": "Cookiestsu",
+       "id": "628165423191293962"
      }
    ],
   "spec": 2,
