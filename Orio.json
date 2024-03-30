@@ -34,28 +34,28 @@
       "#3a3a3a"
     ],
     "BACKGROUND_PRIMARY": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_SECONDARY": [
       "#171717"
     ],
     "BACKGROUND_SECONDARY_ALT": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_TERTIARY": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_ACCENT": [
       "#08393F"
     ],
     "BACKGROUND_FLOATING": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_MOBILE_PRIMARY": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#06000A"
+      "#050613"
     ],
     "BACKGROUND_MESSAGE_HOVER": [
       "#171717"
@@ -76,12 +76,12 @@
       "#396165"
     ],
     "KEYBOARD": [
-      "#06000A"
+      "#050613"
     ]
   },
   "rawColors": {
-    "PRIMARY_800": "#06000A",
-    "PRIMARY_600": "#06000A"
+    "PRIMARY_800": "#050613",
+    "PRIMARY_600": "#050613"
   },
   "background": {
     "blur": 0.3,
